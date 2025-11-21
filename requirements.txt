@@ -1,6 +1,8 @@
 streamlit>=1.28.0
-pandas>=1.5.0
-langchain-openai>=0.3.0
-langchain-experimental>=0.0.3
-python-dotenv>=1.0.0
+numpy>=2.1.0
+pandas>=2.0.0
+langchain>=0.3.27
+langchain-community>=0.3.31
+langchain-core>=0.3.79
 openai>=1.0.0
+python-dotenv>=1.0.0
